@@ -17,7 +17,7 @@ To build an interactive dashboard that helps HR professionals monitor key metric
 
 ## 📄 Files Included
 - `HR_Analytics_insights.pbix`: The Power BI dashboard project file
-- Dashboard screenshot
+- 'HR_analytics_Dashboard_SS.png': Dashboard screenshot
 
 ## 📈 Outcome
 Helped simulate an HR analytics system to enable strategic decisions around talent retention, training, and recruitment.
